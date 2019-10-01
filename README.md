@@ -1,1 +1,1 @@
-# smelly
+# smelly-cat
